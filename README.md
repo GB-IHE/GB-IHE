@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GB-IHE
+- 👀 I’m interested in C++, C#, and R
+- 🌱 I’m currently learning more about C++
+- 💞️ I’m looking to collaborate on health economic projects
+- 📫 How to reach me gb@ihe.se
